@@ -12,5 +12,5 @@ int main()
   else
     printf("%c is not a vowel.\n", ch);
  
-  return 0;
+  return (0);
 }
